@@ -1,0 +1,19 @@
+.container-sm{
+    background-color: #6d6875;
+    margin-top: 190px;  
+    width: 400px; 
+    height: 95px; 
+    border-radius: 10px;
+}
+
+.btn{
+    margin-left: 70px;
+    margin-top: 5px;
+    text-align: justify;
+}
+
+#name{
+    margin-left: 145px; 
+    font-size: 30px;
+    text-align: justify;
+}
